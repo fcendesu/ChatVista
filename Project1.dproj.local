@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.bdsproj,C:\Documents and Settings\Özer\Belgelerim\Borland Studio Projects\Project1.bdsproj=C:\Documents and Settings\Özer\Desktop\Mesajlaşma\Project1.bdsproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,C:\Documents and Settings\Özer\Belgelerim\Borland Studio Projects\Unit1.dfm=C:\Documents and Settings\Özer\Desktop\Mesajlaşma\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,C:\Documents and Settings\Özer\Desktop\Mesajlaşma\Unit2.pas=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,C:\Documents and Settings\Özer\Desktop\Mesajlaşma\Unit2.dfm=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,C:\Documents and Settings\Özer\Belgelerim\Borland Studio Projects\Unit1.pas=C:\Documents and Settings\Özer\Desktop\Mesajlaşma\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
