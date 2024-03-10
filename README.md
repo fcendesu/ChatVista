@@ -4,9 +4,10 @@ ChatVista is a messaging application developed in Delphi, enabling users to secu
 
 ## Features
 
-- **User Authentication:** Users can log in securely with their registered username and password.
-- **Contact Management:** Users can view and manage their registered contacts easily. Additionally, they can add new contacts to their list.
-- **Message Center:** The application provides a messaging center where users can view and send messages to their contacts.
+- **User Authentication**: Users log in securely using their username and password.
+- **Contact Management**: View and manage registered contacts.
+- **Real-time Messaging**: Send and receive messages in real-time.
+- **Contact Addition**: Add new contacts to extend your messaging network.
 
 ## Getting Started
 
@@ -23,4 +24,6 @@ ChatVista is a messaging application developed in Delphi, enabling users to secu
 3. Navigate through the contact list and select a contact to view and send messages.
 
 4. Use the interface to manage your contacts, add new contacts, and send messages.
+
+
 
